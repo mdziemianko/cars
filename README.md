@@ -1,8 +1,10 @@
 # cars
 A demo of self navigating cars learning to race around the track
 
-I wrote it for my friend's kid to show him 'cool stuff'. 
+I wrote it in one evening for my friend's kid to show him 'cool stuff'. 
 This is by no means a serious attempt to create a self navigating car.
+ 
+![demo](demo.png)
  
 Feel free to use for any non-commercial purpose.    
         
